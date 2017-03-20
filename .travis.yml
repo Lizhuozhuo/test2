@@ -1,2 +1,2 @@
-sudo: true
+sudo: false
 language: python
