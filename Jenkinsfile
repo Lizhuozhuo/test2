@@ -13,7 +13,7 @@ pipeline {
             sleep(time: 1, unit: 'MINUTES')
           }
         }
-        stage('') {
+        stage('error') {
           steps {
             sh 'echo \'world\''
           }
