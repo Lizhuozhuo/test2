@@ -10,7 +10,7 @@ pipeline {
       parallel {
         stage('test') {
           steps {
-            sleep(time: 1, unit: 'MINUTES')
+            echo 'test'
           }
         }
         stage('error') {
