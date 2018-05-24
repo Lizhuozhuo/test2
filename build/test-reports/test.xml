@@ -1,0 +1,10 @@
+<dependency>
+       <groupId>com.yeepay.infra</groupId>
+         <artifactId>metrics-agent-core</artifactId>
+             <version>1.0</version>
+          </dependency>
+          <dependency>
+             <groupId>com.yeepay.infra</groupId>
+             <artifactId>tomcat-plugin</artifactId>
+             <version>1.0</version>
+</dependency>"
